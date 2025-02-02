@@ -33,9 +33,6 @@ Este projeto pode ser testado no simulador online **Wokwi**. Basta clicar no lin
 
 [Vídeo Demonstrativo](https://www.youtube.com/watch?v=Odi_st8Awek)
 
-## 📜 Licença
-Este projeto está licenciado sob a **MIT License** - sinta-se livre para modificá-lo e distribuí-lo conforme necessário.
-
 ## 📩 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
 - **Desenvolvedor**: Leonardo Rodrigues
