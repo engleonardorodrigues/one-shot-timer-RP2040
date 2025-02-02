@@ -1,0 +1,7 @@
+[wokwi]
+version = 1
+firmware = 'build/one-shot-timer-RP2040.uf2'
+elf = 'build/one-shot-timer-RP2040.elf'
+
+[[uart]]
+baudRate = 115200  # Taxa de transmissão
