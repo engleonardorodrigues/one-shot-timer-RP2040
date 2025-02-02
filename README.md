@@ -1,2 +1,3 @@
-[![Vídeo Demostrativo](https://raw.githubusercontent.com/engleonardorodrigues/one-shot-timer-RP2040/master/video/thumbnail.jpg)](https://raw.githubusercontent.com/engleonardorodrigues/one-shot-timer-RP2040/master/video/circuito_em_funcionamento.mp4)
 
+
+[![Vídeo Demonstrativo](https://youtu.be/Odi_st8Awek)
